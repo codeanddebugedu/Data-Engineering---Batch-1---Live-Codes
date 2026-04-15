@@ -1,8 +1,8 @@
 emp_id,name,age,gender,department,designation,salary,city,join_date,experience_years,rating,email
-1001,Kriti Saxena,33,Male,Engineering,Manager,32153, Delhi ,25-04-24,10,3.5,kriti.saxena@company.com
-1002,Aadhya nair,,Female,Engineering,Senior,,    Pune  ,24-05-16,15,,aadhya.nair@company.com
-1003,BhavNA saxena,56,Male,Engineering,Intern,32123,Pune,28-06-17,34,4.3,bhavna.saxena@company.com
-1004,ROHhan Shah,51,Male,Sales,Associate,72798,Mumbai,11-03-15,30,,rohan.shah@company.com
+1001,Kriti Saxena,33,Male,Engineering,Manager,133646,Delhi,25-04-24,10,3.5,kriti.saxena@company.com
+1002,Aadhya Nair,39,Female,Engineering,Senior,81835,Pune,24-05-16,15,,aadhya.nair@company.com
+1003,Bhavna Saxena,56,Male,Engineering,Intern,42051,Pune,28-06-17,34,4.3,bhavna.saxena@company.com
+1004,Rohan Shah,51,Male,Sales,Associate,72798,Mumbai,11-03-15,30,,rohan.shah@company.com
 1005,Geeta Nair,45,Female,Engineering,Senior,91113,Kolkata,04-03-21,24,3.6,geeta.nair@company.com
 1006,Rahul Gupta,51,Male,Product,VP,209477,Ahmedabad,26-09-19,29,3.2,rahul.gupta@company.com
 1007,Karan Mishra,35,Male,Engineering,Senior,82266,Delhi,12-02-24,12,2.8,karan.mishra@company.com
@@ -157,7 +157,7 @@ emp_id,name,age,gender,department,designation,salary,city,join_date,experience_y
 1156,Bhavna Singh,22,Male,Engineering,Junior,31271,Ahmedabad,16-08-18,1,2.5,bhavna.singh@company.com
 1157,Divya Joshi,,Male,Sales,Manager,111813,Pune,08-11-17,21,1.3,divya.joshi@company.com
 1158,Vikram Saxena,56,Male,Sales,Associate,,Hyderabad,15-03-22,35,4.3,vikram.saxena@company.com
-1159,Priya Iyer,45,Female,HR,VP,216954,Ahmedabad,24-07-15,22,3.5,priya.iyer@company.com
+1159,Priya Iyer,45,Female,HR,VP,215185,Ahmedabad,24-07-15,22,3.5,priya.iyer@company.com
 1160,Kabir Pandey,38,Male,Product,Associate,63845,Bangalore,04-09-24,17,4.3,kabir.pandey@company.com
 1161,Tanvi Malhotra,26,Female,Sales,Junior,50504,Jaipur,17-09-20,4,2.6,tanvi.malhotra@company.com
 1162,Aryan Rao,41,Female,Sales,Lead,107508,,02-02-20,19,3.5,aryan.rao@company.com
@@ -381,7 +381,7 @@ emp_id,name,age,gender,department,designation,salary,city,join_date,experience_y
 1380,Sahil Agarwal,43,Male,Finance,Senior,81322,Jaipur,25-06-24,21,4.5,sahil.agarwal@company.com
 1381,Yash Kapoor,49,Female,Engineering,Manager,124749,,20-06-20,29,3.9,yash.kapoor@company.com
 1382,Sonal Sharma,28,Male,Engineering,Senior,71968,Jaipur,06-05-24,6,2.9,sonal.sharma@company.com
-1383,Sunita Bansal,56,Male,Product,Intern,32152,Pune,17-05-20,32,4.7,sunita.bansal@company.com
+1383,Sunita Bansal,56,Male,Product,Intern,-999,Pune,17-05-20,32,4.7,sunita.bansal@company.com
 1384,Rajesh Pillai,49,Male,Engineering,Senior,84157,Pune,04-12-21,26,4,rajesh.pillai@company.com
 1385,Siddharth Gupta,35,Male,Product,Director,177080,Chennai,08-11-23,15,2,siddharth.gupta@company.com
 1386,Sai Mehta,31,Female,HR,Senior,78596,Jaipur,09-11-22,9,4.2,sai.mehta@company.com
@@ -396,7 +396,7 @@ emp_id,name,age,gender,department,designation,salary,city,join_date,experience_y
 1395,Suresh Yadav,41,Female,Product,Associate,67422,Bangalore,31-01-22,17,4.2,suresh.yadav@company.com
 1396,Ritika Agarwal,39,Female,Support,Associate,66548,Pune,13-12-22,18,3.2,ritika.agarwal@company.com
 1397,Kunal Pillai,42,Female,Operations,Lead,90520,Hyderabad,01-04-21,21,,kunal.pillai@company.com
-1398,Kavya Verma,25,Male,Marketing,Associate,43212,Pune,20-03-18,1,3.4,kavya.verma@company.com
+1398,Kavya Verma,25,Male,Marketing,Associate,-999,Pune,20-03-18,1,3.4,kavya.verma@company.com
 1399,Aarav Mishra,,Female,Marketing,Manager,113687,Bangalore,15-09-16,33,3.2,aarav.mishra@company.com
 1400,Shweta Patel,48,Male,Operations,Senior,81980,Hyderabad,11-10-17,24,3.8,shweta.patel@company.com
 1401,Rakesh Kumar,28,Male,Engineering,Lead,105929,Jaipur,30-04-24,5,2.5,rakesh.kumar@company.com
@@ -417,14 +417,14 @@ emp_id,name,age,gender,department,designation,salary,city,join_date,experience_y
 1416,Aditya Agarwal,26,Female,Engineering,Associate,46673,Pune,20-03-15,6,3.7,aditya.agarwal@company.com
 1417,Pranav Menon,24,Female,Marketing,Senior,79318,Chennai,15-09-15,1,3.2,pranav.menon@company.com
 1418,Dhruv Pandey,44,Female,Product,Senior,92643,Ahmedabad,21-12-20,20,2.9,dhruv.pandey@company.com
-1419,Arjun Bhat,47,Male,Support,VP,216954,Mumbai,04-03-17,25,5,arjun.bhat@company.com
+1419,Arjun Bhat,47,Male,Support,VP,214690,Mumbai,04-03-17,25,5,arjun.bhat@company.com
 1420,Komal Kapoor,45,Female,Marketing,Junior,41171,Kolkata,28-08-18,23,4.5,komal.kapoor@company.com
 1421,Abhishek Tiwari,40,Male,Finance,Lead,114345,Surat,29-05-17,18,2.6,abhishek.tiwari@company.com
 1422,Vandana Kumar,46,Female,Engineering,Senior,91312,Surat,01-02-17,26,3.8,vandana.kumar@company.com
 1423,Sara Verma,42,Female,Support,Senior,78545,Delhi,07-11-15,19,4.7,sara.verma@company.com
 1424,Geeta Desai,33,Male,Engineering,Lead,96803,Jaipur,27-01-19,13,2.3,geeta.desai@company.com
 1425,Divya Bansal,,Female,Support,Lead,108562,Mumbai,15-09-22,33,3.6,divya.bansal@company.com
-1426,Divya Mehta,25,Male,Finance,VP,216954,Surat,23-01-19,1,3.6,divya.mehta@company.com
+1426,Divya Mehta,25,Male,Finance,VP,216829,Surat,23-01-19,1,3.6,divya.mehta@company.com
 1427,Nikhil Chopra,28,Male,Finance,Junior,32294,Pune,25-06-17,4,2.5,nikhil.chopra@company.com
 1428,Simran Verma,43,Male,Marketing,Junior,33630,Jaipur,22-02-19,21,3.8,simran.verma@company.com
 1429,Kriti Yadav,54,Male,Engineering,Lead,100093,Mumbai,09-10-16,32,4.4,kriti.yadav@company.com
@@ -445,11 +445,11 @@ emp_id,name,age,gender,department,designation,salary,city,join_date,experience_y
 1444,Archana Nair,23,Male,Engineering,Senior,81402,Delhi,22-08-16,3,2.1,archana.nair@company.com
 1445,Isha Joshi,43,Male,Product,Manager,112242,Ahmedabad,09-11-15,20,3.9,isha.joshi@company.com
 1446,Vihaan Joshi,23,Female,Engineering,Lead,,Kolkata,01-05-15,1,3.3,vihaan.joshi@company.com
-1447,Vihaan Chauhan,31,Female,Engineering,Senior,87702,Pune,18-10-23,8,3.5,vihaan.chauhan@company.com
+1447,Vihaan Chauhan,31,Female,ENGINEERING,Senior,87702,Pune,18-10-23,8,3.5,vihaan.chauhan@company.com
 1448,Vikram Gupta,55,Female,HR,Associate,50097,Mumbai,07-09-23,33,4.2,vikram.gupta@company.com
 1449,Arun Agarwal,37,Male,HR,Associate,53640,Kolkata,04-04-19,17,4.4,arun.agarwal@company.com
 1450,Sneha Mehta,43,Male,HR,Lead,86948,Surat,16-08-15,22,2.8,sneha.mehta@company.com
-1451,Aryan Thakur,33,Female,Engineering,VP,216954,Kolkata,01-03-25,12,3.5,aryan.thakur@company.com
+1451,Aryan Thakur,33,Female,Engineering,VP,215521,Kolkata,01-03-25,12,3.5,aryan.thakur@company.com
 1452,Simran Desai,45,Female,Product,Lead,90618,Jaipur,26-01-15,23,3.1,simran.desai@company.com
 1453,Rohan Kumar,31,Male,Sales,Senior,69236,Mumbai,02-06-20,10,4,rohan.kumar@company.com
 1454,Gaurav Saxena,56,Female,Engineering,Lead,108285,Delhi,01-06-24,35,3.3,gaurav.saxena@company.com
@@ -467,7 +467,7 @@ emp_id,name,age,gender,department,designation,salary,city,join_date,experience_y
 1466,Aryan Kapoor,49,Male,Marketing,Associate,56164,Mumbai,21-02-19,27,3,aryan.kapoor@company.com
 1467,Suresh Singh,35,Female,Engineering,Lead,89390,  Mumbai  ,17-07-22,12,4.8,suresh.singh@company.com
 1468,Aarav Joshi,48,Female,Engineering,Lead,104071,Bangalore,07-08-24,24,3.5,aarav.joshi@company.com
-1469,Kriti Chopra,49,Male,Finance,Director,5654,surat,12:00 AM,29,3.6,kriti.chopra@company.com
+1469,Kriti Chopra,49,Male,Finance,Director,-999,surat,11-07-25,29,3.6,kriti.chopra@company.com
 1470,Abhishek Chauhan,47,Male,Engineering,Associate,60641,Hyderabad,24-03-20,23,3,abhishek.chauhan@company.com
 1471,Sara Thakur,23,Male,Product,Associate,51160,Hyderabad,30-04-20,1,4.4,sara.thakur@company.com
 1472,Deepak Tiwari,46,Male,Marketing,Junior,58742,Delhi,01-06-15,26,3.3,deepak.tiwari@company.com
@@ -504,13 +504,3 @@ emp_id,name,age,gender,department,designation,salary,city,join_date,experience_y
 1503,Aditya Mishra,27,Female,Engineering,Junior,55060,Chennai,16-03-18,5,3.3,aditya.mishra@company.com
 1504,Shweta Pillai,41,Female,Sales,Senior,88299,Mumbai,05-11-23,19,4.4,shweta.pillai@company.com
 1505,Rakesh Chopra,37,Male,Support,Manager,137886,Surat,20-08-19,16,3,rakesh.chopra@company.com
-1001,Kriti Saxena,33,Male,Engineering,Manager,133646,Delhi,25-04-24,10,3.5,kriti.saxena@company.com
-1004,Rohan Shah,51,Male,Sales,Associate,72798,Mumbai,11-03-15,30,,rohan.shah@company.com
-1007,Karan Mishra,35,Male,Engineering,Senior,82266,Delhi,12-02-24,12,2.8,karan.mishra@company.com
-1009,Nikhil Patel,24,Female,Marketing,Senior,85452,Jaipur,14-01-17,1,4.2,nikhil.patel@company.com
-1481,Aadhya Yadav,26,Female,Operations,Junior,30192,Kolkata,20-10-21,4,3.3,aadhya.yadav@company.com
-1485,Varun Yadav,29,Male,Operations,Intern,21314,Pune,04-10-18,5,3.7,varun.yadav@company.com
-1488,Ishaan Gupta,57,Male,Finance,Associate,52374,Mumbai,15-10-15,35,4.3,ishaan.gupta@company.com
-1491,Ayaan Joshi,30,Male,Engineering,Senior,80129,Chennai,30-09-25,9,4.8,ayaan.joshi@company.com
-1493,Sai Kulkarni,39,Female,Product,Associate,48893,Chennai,13-08-21,19,2.7,sai.kulkarni@company.com
-1495,Ritika Chauhan,27,Female,Product,Senior,74288,Ahmedabad,19-08-15,3,4.2,ritika.chauhan@company.com

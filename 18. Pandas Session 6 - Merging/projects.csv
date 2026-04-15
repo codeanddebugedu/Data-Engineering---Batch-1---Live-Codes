@@ -1,0 +1,21 @@
+project_id,project_name,dept_id,start_date,end_date,status,budget_lakhs
+2001,Data Pipeline v2,107,2024-01-01,2024-02-25,Planning,88
+2002,CRM Upgrade,103,2024-01-16,2024-05-11,Active,15
+2003,Brand Campaign Q1,102,2024-01-31,2024-06-01,Completed,42
+2004,Employee Portal,107,2024-02-15,2024-06-25,Completed,64
+2005,Budget Forecasting,105,2024-03-01,2024-06-09,Active,28
+2006,Warehouse Automation,108,2024-03-16,2024-09-01,On Hold,86
+2007,Mobile App Redesign,106,2024-03-31,2024-08-02,On Hold,38
+2008,Chatbot v3,108,2024-04-15,2024-09-09,Completed,70
+2009,API Gateway,101,2024-04-30,2024-10-24,Active,79
+2010,Sales Dashboard,101,2024-05-15,2024-10-10,Active,88
+2011,Social Media Analytics,103,2024-05-30,2024-08-18,Active,89
+2012,Payroll System,107,2024-06-14,2024-10-02,On Hold,33
+2013,Cost Optimization,103,2024-06-29,2024-09-02,Active,32
+2014,Supply Chain Tracker,104,2024-07-14,2024-10-18,On Hold,19
+2015,Feature Flagging,105,2024-07-29,2025-01-03,Completed,63
+2016,Help Desk AI,106,2024-08-13,2025-01-03,On Hold,50
+2017,Cloud Migration,103,2024-08-28,2025-01-15,Completed,58
+2018,Lead Scoring,104,2024-09-12,2025-03-02,Completed,26
+2019,Content Platform,107,2024-09-27,2025-02-03,Completed,65
+2020,Compliance Audit,105,2024-10-12,2025-02-27,On Hold,54
